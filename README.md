@@ -6,14 +6,11 @@
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eightalmond&theme=hacker)](https://git.io/streak-stats) </br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Eightalmond&theme=vue-dark&hide_border=false)<br/>
 
 </div>
 
 
 
-
-
-
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eightalmond&bg_color=2c3e50&color=41b883&line=41b883&point=f6f8fa&area=true&hide_border=true)
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eightalmond&bg_color=000000&color=4dff00&line=4dff00&point=226d23&area=true&hide_border=true)
